@@ -1,3 +1,3 @@
-text = "Привет Владимир"
+text = 'Dmitriy is a teacher'
 
 print(text)
