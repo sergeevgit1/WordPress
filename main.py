@@ -1,3 +1,1 @@
-text = 'Dmitriy is a teacher'
-
-print(text)
+Вова учитьсся сосать писю
